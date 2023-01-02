@@ -1,0 +1,16 @@
+to download the jfrog in ec2 instance
+# give the all traffic permission
+1. first connect the server in mobilxstream
+2. type sudo su - (for going complete root user)
+3. type wget along with {url}
+4. untar the tar file
+5. change the directory to artifactory
+6. change the directory to app
+7. change the directory to bin
+8. execute the artifactoryctl (./{file_name})
+9. using public ipv4 address along with 8082 port number 
+10. open chrome browser and type public ip address along with port n.
+11. give username as admin
+12. give password as password
+13 skip all the step and click on finish
+----------------Welcome----------------------
